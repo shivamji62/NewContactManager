@@ -56,18 +56,6 @@ namespace ContactManager.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Contacts");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Address = "123 Main St, City, Country",
-                            CreatedOn = new DateTime(2024, 6, 26, 18, 1, 56, 246, DateTimeKind.Local).AddTicks(1884),
-                            Email = "first.test@example.com",
-                            Name = "First Test",
-                            Phone = "9874563218",
-                            UpdatedOn = new DateTime(2024, 6, 26, 18, 1, 56, 246, DateTimeKind.Local).AddTicks(1874)
-                        });
                 });
 #pragma warning restore 612, 618
         }

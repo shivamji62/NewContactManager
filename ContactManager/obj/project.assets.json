@@ -8172,11 +8172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\ContactManager\\ContactManager\\ContactManager.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\NewContactManager\\ContactManager\\ContactManager.csproj",
       "projectName": "ContactManager",
-      "projectPath": "C:\\Users\\user\\Desktop\\ContactManager\\ContactManager\\ContactManager.csproj",
+      "projectPath": "C:\\Users\\user\\Source\\Repos\\NewContactManager\\ContactManager\\ContactManager.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\ContactManager\\ContactManager\\obj\\",
+      "outputPath": "C:\\Users\\user\\Source\\Repos\\NewContactManager\\ContactManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\ContactManager\\ContactManager\\ContactManager.csproj": {}
+    "C:\\Users\\user\\source\\repos\\NewContactManager\\ContactManager\\ContactManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\ContactManager\\ContactManager\\ContactManager.csproj": {
+    "C:\\Users\\user\\source\\repos\\NewContactManager\\ContactManager\\ContactManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\ContactManager\\ContactManager\\ContactManager.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\NewContactManager\\ContactManager\\ContactManager.csproj",
         "projectName": "ContactManager",
-        "projectPath": "C:\\Users\\user\\Desktop\\ContactManager\\ContactManager\\ContactManager.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\NewContactManager\\ContactManager\\ContactManager.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\ContactManager\\ContactManager\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\NewContactManager\\ContactManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
